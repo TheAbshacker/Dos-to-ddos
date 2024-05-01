@@ -19,3 +19,17 @@ The packet size is 1.mb of dos and ddos,so you will need other people executing 
 
 
 But, Don't GO CRAZY 😜😜
+
+
+
+
+
+
+# Fix an error
+
+
+
+
+make sure you edit the error that 😅 I made, In the Pyddos.py
+
+import society <= remove the letter "y"
